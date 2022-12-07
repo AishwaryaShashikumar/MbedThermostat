@@ -1,1 +1,1 @@
-# MbedThermostat
+# SmartThermostat
